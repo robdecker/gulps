@@ -1,0 +1,9 @@
+{
+  "name": "csai",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "susy": "~2.2.1",
+    "include-media": "~1.1.2"
+  }
+}
